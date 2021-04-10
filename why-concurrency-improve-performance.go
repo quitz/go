@@ -12,7 +12,7 @@ func main() {
  
 	d := 200
 	for i:=0;i<d;i++{
-    //this could be replaced by any io operations
+    		//this could be replaced by any io operations
 		time.Sleep(time.Millisecond * 1)
 	}
 	
@@ -34,5 +34,10 @@ func main() {
 
 
 //Output
+//elapsed time with regular for loop 227.69952ms
+//elapsed time with goroutines 2.291133ms
+
+//if we comment out the time.sleep() statement
+//output
 //elapsed time with regular for loop 227.69952ms
 //elapsed time with goroutines 2.291133ms
