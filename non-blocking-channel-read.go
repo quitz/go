@@ -52,4 +52,4 @@ func main() {
 }
 
 
-//
+//https://stackoverflow.com/questions/3398490/checking-if-a-channel-has-a-ready-to-read-value-using-go
