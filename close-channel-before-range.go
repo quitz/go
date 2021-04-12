@@ -22,3 +22,5 @@ func main() {
 	}
 
 }
+
+//https://stackoverflow.com/questions/45020481/range-a-channel-finishes-with-deadlock
