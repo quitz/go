@@ -24,3 +24,4 @@ func main() {
 }
 
 //https://stackoverflow.com/questions/45020481/range-a-channel-finishes-with-deadlock
+//https://stackoverflow.com/questions/52943450/go-routine-for-range-over-channels
